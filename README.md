@@ -1,4 +1,4 @@
-# RockPaperScissor
+# Rock Paper Scissor
 My first website game
 
 ## About
